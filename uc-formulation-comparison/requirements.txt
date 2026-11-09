@@ -1,0 +1,9 @@
+ #Minimum versions (work on Python 3.10 and newer, including 3.13).
+# For an exactly reproducible environment, run `pip freeze > requirements-lock.txt`
+# after a successful install and commit that file.
+pyomo>=6.8.2
+highspy>=1.8.1
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+pytest>=8.0
